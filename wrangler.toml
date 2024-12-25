@@ -3,5 +3,5 @@ type = "javascript"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
-database_name = "newsnow-db"  # 替换为你创建的数据库名称
-database_id = "9c5fac4f-6880-4194-9b2b-ae958ad61020"      # 替换为你创建的数据库 ID
+database_name = "newsnow_db"  # 替换为你创建的数据库名称
+database_id = "bb2d8f96-2436-4e65-a29b-827d6891d36e"      # 替换为你创建的数据库 ID
